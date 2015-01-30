@@ -1,0 +1,11 @@
++---------+---------+---------+---------+---------+---------+---------+---------
+(a+(x) * (6 + 14) - q7) -- main
+
+(x) -- parens level 2
+(6 + 14) -- parens level 2
+(a+(x) * (6 + 14) - q7) -- parens level 1 Balanced!
+
+main: after call to parens:
+(a+(x) * (6 + 14) - q7)
+main: parens reports the formula is Balanced
+

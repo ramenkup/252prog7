@@ -1,0 +1,12 @@
++---------+---------+---------+---------+---------+---------+---------+---------
+( 19 +(1+(bat/cat) * (xray-sam))) -- main
+
+(bat/cat) -- parens level 3
+(xray-sam) -- parens level 3
+(1+(bat/cat) * (xray-sam)) -- parens level 2
+( 19 +(1+(bat/cat) * (xray-sam))) -- parens level 1 Balanced!
+
+main: after call to parens:
+( 19 +(1+(bat/cat) * (xray-sam)))
+main: parens reports the formula is Balanced
+

@@ -1,0 +1,14 @@
++---------+---------+---------+---------+---------+---------+---------+---------
+((((17 * (3 + a - b) / 7))+(6-abc))) -- main
+
+(3 + a - b) -- parens level 5
+(17 * (3 + a - b) / 7) -- parens level 4
+((17 * (3 + a - b) / 7)) -- parens level 3
+(6-abc) -- parens level 3
+(((17 * (3 + a - b) / 7))+(6-abc)) -- parens level 2
+((((17 * (3 + a - b) / 7))+(6-abc))) -- parens level 1 Balanced!
+
+main: after call to parens:
+((((17 * (3 + a - b) / 7))+(6-abc)))
+main: parens reports the formula is Balanced
+

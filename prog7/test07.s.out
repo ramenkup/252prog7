@@ -1,0 +1,172 @@
++---------+---------+---------+---------+---------+---------+---------+---------
+(a((((b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u))v))(w)(x)(y)))(z)((a)b))c(d)f)) -- main
+
+(e) -- parens level 10
+(i) -- parens level 13
+(m) -- parens level 17
+(n) -- parens level 18
+((n)) -- parens level 17
+(o) -- parens level 18
+(p+q(o)) -- parens level 17
+(l(m)((n))o(p+q(o))r) -- parens level 16
+(v+w) -- parens level 20
+(u(v+w)) -- parens level 19
+((u(v+w))x) -- parens level 18
+(((u(v+w))x)) -- parens level 17
+(z) -- parens level 20
+((z)) -- parens level 19
+(y((z))a) -- parens level 18
+((y((z))a)) -- parens level 17
+(s+t(((u(v+w))x))((y((z))a))) -- parens level 16
+((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a)))) -- parens level 15
+(j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b) -- parens level 14
+((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b)) -- parens level 13
+((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))) -- parens level 12
+(g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b)))) -- parens level 11
+(d) -- parens level 14
+((d)e) -- parens level 13
+(((d)e)) -- parens level 12
+((((d)e))f) -- parens level 11
+((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f)) -- parens level 10
+(h) -- parens level 12
+((h)i) -- parens level 11
+(l+m) -- parens level 14
+((l+m)n) -- parens level 13
+(k((l+m)n)o) -- parens level 12
+(j(k((l+m)n)o)) -- parens level 11
+(q) -- parens level 12
+(p(q)) -- parens level 11
+(g((h)i)(j(k((l+m)n)o))(p(q))r) -- parens level 10
+((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u) -- parens level 9
+(d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u)) -- parens level 8
+((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u))v) -- parens level 7
+(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u))v)) -- parens level 6
+(w) -- parens level 6
+(x) -- parens level 6
+(y) -- parens level 6
+(b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u))v))(w)(x)(y)) -- parens level 5
+((b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u))v))(w)(x)(y))) -- parens level 4
+(z) -- parens level 4
+(a) -- parens level 5
+((a)b) -- parens level 4
+(((b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u))v))(w)(x)(y)))(z)((a)b)) -- parens level 3
+(d) -- parens level 3
+((((b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u))v))(w)(x)(y)))(z)((a)b))c(d)f) -- parens level 2
+(a((((b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u))v))(w)(x)(y)))(z)((a)b))c(d)f)) -- parens level 1 Balanced!
+
+main: after call to parens:
+(a((((b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u))v))(w)(x)(y)))(z)((a)b))c(d)f))
+main: parens reports the formula is Balanced
+
++---------+---------+---------+---------+---------+---------+---------+---------
+(a((((b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h(a((((b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u))v))(w)(x)(y)))(z)((a)b))c(d)f))))i)(j(k((l+m)n)o))(p(q))r)s+t-u))v))(w)(x)(y)))(z)((a)b))c(d)f) -- main
+
+(e) -- parens level 10
+(i) -- parens level 13
+(m) -- parens level 17
+(n) -- parens level 18
+((n)) -- parens level 17
+(o) -- parens level 18
+(p+q(o)) -- parens level 17
+(l(m)((n))o(p+q(o))r) -- parens level 16
+(v+w) -- parens level 20
+(u(v+w)) -- parens level 19
+((u(v+w))x) -- parens level 18
+(((u(v+w))x)) -- parens level 17
+(z) -- parens level 20
+((z)) -- parens level 19
+(y((z))a) -- parens level 18
+((y((z))a)) -- parens level 17
+(s+t(((u(v+w))x))((y((z))a))) -- parens level 16
+((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a)))) -- parens level 15
+(j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b) -- parens level 14
+((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b)) -- parens level 13
+((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))) -- parens level 12
+(g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b)))) -- parens level 11
+(d) -- parens level 14
+((d)e) -- parens level 13
+(((d)e)) -- parens level 12
+((((d)e))f) -- parens level 11
+((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f)) -- parens level 10
+(e) -- parens level 22
+(i) -- parens level 25
+(m) -- parens level 29
+(n) -- parens level 30
+((n)) -- parens level 29
+(o) -- parens level 30
+(p+q(o)) -- parens level 29
+(l(m)((n))o(p+q(o))r) -- parens level 28
+(v+w) -- parens level 32
+(u(v+w)) -- parens level 31
+((u(v+w))x) -- parens level 30
+(((u(v+w))x)) -- parens level 29
+(z) -- parens level 32
+((z)) -- parens level 31
+(y((z))a) -- parens level 30
+((y((z))a)) -- parens level 29
+(s+t(((u(v+w))x))((y((z))a))) -- parens level 28
+((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a)))) -- parens level 27
+(j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b) -- parens level 26
+((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b)) -- parens level 25
+((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))) -- parens level 24
+(g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b)))) -- parens level 23
+(d) -- parens level 26
+((d)e) -- parens level 25
+(((d)e)) -- parens level 24
+((((d)e))f) -- parens level 23
+((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f)) -- parens level 22
+(h) -- parens level 24
+((h)i) -- parens level 23
+(l+m) -- parens level 26
+((l+m)n) -- parens level 25
+(k((l+m)n)o) -- parens level 24
+(j(k((l+m)n)o)) -- parens level 23
+(q) -- parens level 24
+(p(q)) -- parens level 23
+(g((h)i)(j(k((l+m)n)o))(p(q))r) -- parens level 22
+((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u) -- parens level 21
+(d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u)) -- parens level 20
+((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u))v) -- parens level 19
+(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u))v)) -- parens level 18
+(w) -- parens level 18
+(x) -- parens level 18
+(y) -- parens level 18
+(b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u))v))(w)(x)(y)) -- parens level 17
+((b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u))v))(w)(x)(y))) -- parens level 16
+(z) -- parens level 16
+(a) -- parens level 17
+((a)b) -- parens level 16
+(((b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u))v))(w)(x)(y)))(z)((a)b)) -- parens level 15
+(d) -- parens level 15
+((((b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u))v))(w)(x)(y)))(z)((a)b))c(d)f) -- parens level 14
+(a((((b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u))v))(w)(x)(y)))(z)((a)b))c(d)f)) -- parens level 13
+(h(a((((b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u))v))(w)(x)(y)))(z)((a)b))c(d)f))) -- parens level 12
+((h(a((((b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u))v))(w)(x)(y)))(z)((a)b))c(d)f)))) -- parens level 11
+(g((h(a((((b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u))v))(w)(x)(y)))(z)((a)b))c(d)f))))i) -- parens level 10
+(l+m) -- parens level 13
+((l+m)n) -- parens level 12
+(k((l+m)n)o) -- parens level 11
+(j(k((l+m)n)o)) -- parens level 10
+(q) -- parens level 11
+(p(q)) -- parens level 10
+((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h(a((((b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u))v))(w)(x)(y)))(z)((a)b))c(d)f))))i)(j(k((l+m)n)o))(p(q))r) -- parens level 9
+(d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h(a((((b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u))v))(w)(x)(y)))(z)((a)b))c(d)f))))i)(j(k((l+m)n)o))(p(q))r)s+t-u) -- parens level 8
+((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h(a((((b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u))v))(w)(x)(y)))(z)((a)b))c(d)f))))i)(j(k((l+m)n)o))(p(q))r)s+t-u)) -- parens level 7
+(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h(a((((b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u))v))(w)(x)(y)))(z)((a)b))c(d)f))))i)(j(k((l+m)n)o))(p(q))r)s+t-u))v) -- parens level 6
+(b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h(a((((b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u))v))(w)(x)(y)))(z)((a)b))c(d)f))))i)(j(k((l+m)n)o))(p(q))r)s+t-u))v)) -- parens level 5
+(w) -- parens level 5
+(x) -- parens level 5
+(y) -- parens level 5
+((b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h(a((((b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u))v))(w)(x)(y)))(z)((a)b))c(d)f))))i)(j(k((l+m)n)o))(p(q))r)s+t-u))v))(w)(x)(y)) -- parens level 4
+(((b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h(a((((b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u))v))(w)(x)(y)))(z)((a)b))c(d)f))))i)(j(k((l+m)n)o))(p(q))r)s+t-u))v))(w)(x)(y))) -- parens level 3
+(z) -- parens level 3
+(a) -- parens level 4
+((a)b) -- parens level 3
+((((b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h(a((((b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u))v))(w)(x)(y)))(z)((a)b))c(d)f))))i)(j(k((l+m)n)o))(p(q))r)s+t-u))v))(w)(x)(y)))(z)((a)b)) -- parens level 2
+(d) -- parens level 2
+(a((((b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h(a((((b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u))v))(w)(x)(y)))(z)((a)b))c(d)f))))i)(j(k((l+m)n)o))(p(q))r)s+t-u))v))(w)(x)(y)))(z)((a)b))c(d)f) -- parens level 1 Balanced!
+
+main: after call to parens:
+(a((((b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h(a((((b(c((d((e)f((g+h((i)((j+k((l(m)((n))o(p+q(o))r)(s+t(((u(v+w))x))((y((z))a))))b))))c((((d)e))f))(g((h)i)(j(k((l+m)n)o))(p(q))r)s+t-u))v))(w)(x)(y)))(z)((a)b))c(d)f))))i)(j(k((l+m)n)o))(p(q))r)s+t-u))v))(w)(x)(y)))(z)((a)b))c(d)f)
+main: parens reports the formula is Balanced
+

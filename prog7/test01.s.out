@@ -1,0 +1,9 @@
++---------+---------+---------+---------+---------+---------+---------+---------
+(7) -- main
+
+(7) -- parens level 1 Balanced!
+
+main: after call to parens:
+(7)
+main: parens reports the formula is Balanced
+

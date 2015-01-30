@@ -1,0 +1,9 @@
++---------+---------+---------+---------+---------+---------+---------+---------
+(formula + with - only + the + one * parens) -- main
+
+(formula + with - only + the + one * parens) -- parens level 1 Balanced!
+
+main: after call to parens:
+(formula + with - only + the + one * parens)
+main: parens reports the formula is Balanced
+
